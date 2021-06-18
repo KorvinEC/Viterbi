@@ -1,1 +1,1 @@
-# Viterbi
+Realisation of convolutional codes coder and decoder, based on Viterbi algorithm.
